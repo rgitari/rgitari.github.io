@@ -1,14 +1,14 @@
-## Portfolio
+## Data Science Portfolio
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
+[Project 1 Airbnb: "Belong anywhere ?"](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Bank Marketing: "To ring or fling ?"](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
