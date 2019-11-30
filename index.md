@@ -5,7 +5,7 @@
 ### Projects
 
 [Project 1 Airbnb: "Belong anywhere ?"](/sample_page)
-<img src="dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Bank Marketing: "To ring or fling ?"](/pdf/sample_presentation.pdf)
