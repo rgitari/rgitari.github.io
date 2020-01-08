@@ -9,14 +9,17 @@
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 ```javascript
-if (isAwesome){
-  return true
+if i can type something here (isAwesome apparently ){
+  and if return true
 }
 ```
 
 ### 2. Geographical representation of Airbnb listings across major US cities
 
 <img src="images/Comb.png?raw=true"/>
+
+
+
 ```javascript
 if (isAwesome){
   return true
