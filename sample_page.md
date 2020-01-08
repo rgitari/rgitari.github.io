@@ -14,7 +14,7 @@ if (isAwesome){
 }
 ```
 
-### 2. Assess assumptions on which statistical inference will be based
+### 2. Geographical representation of Airbnb listings across major US cities
 
 <img src="images/Comb.png?raw=true"/>
 ```javascript
