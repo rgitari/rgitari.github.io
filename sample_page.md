@@ -16,6 +16,7 @@ if (isAwesome){
 
 ### 2. Assess assumptions on which statistical inference will be based
 
+<img src="images/Comb.png?raw=true"/>
 ```javascript
 if (isAwesome){
   return true
