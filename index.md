@@ -8,7 +8,7 @@
 <img src="images/airbnb-logo-png-airbnb-logo-1600.jpg?raw=true"/>
 
 ---
-[Project 2 Bank Marketing: "To ring or fling ?"](/pdf/sample_presentation.pdf)
+[Project 2 Bank Marketing: "To ring or fling ?"](/page2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -20,7 +20,7 @@
 ### Computational & Quantitative Finance Projects
 
 - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Project 2 Title](/pdf/sample_presentation.pdf)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
