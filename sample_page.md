@@ -1,6 +1,8 @@
-## This can be your internal website page / project page
+## Airbnb: “Belong anywhere ?”
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Using publicly available data on Airbnb listings I have developed several models which predict a price for a listing given the characteristics of the property. These models could be used by various stakeholders, if Airbnb were to make these models or refinements of these models available to the appropriate stakeholders.
+
+**Business use cases:* Firstly, current hosts can use this analysis it to see if their listings are mispriced for their and adjust prices to charge optimally based on these factors. Secondly, Airbnb may also be able to introduce a tool that ‘advertises’ to potential hosts and gives them a fast and efficient method to approximate how much a host’s property could go for. Lastly property investors, and in particular speculators, will be able to use this analysis and develop it further to build models which predict prices and potentially develop around certain areas. .
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
