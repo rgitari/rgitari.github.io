@@ -1,4 +1,4 @@
-## Airbnb: “Belong anywhere ?”
+## Bank Marketing: “To ring or Fling?”
 
 **Project description:** Using publicly available data on Airbnb listings, I have developed several models which predict the price for a listing given the characteristics of the property. These models could be used by various stakeholders, if Airbnb were to make these models or refinements of these models available to the appropriate stakeholders.
 
