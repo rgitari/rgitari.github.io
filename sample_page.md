@@ -1,8 +1,8 @@
 ## Airbnb: “Belong anywhere ?”
 
-**Project description:** Using publicly available data on Airbnb listings, I have developed several models which predict a price for a listing given the characteristics of the property. These models could be used by various stakeholders, if Airbnb were to make these models or refinements of these models available to the appropriate stakeholders.
+**Project description:** Using publicly available data on Airbnb listings, I have developed several models which predict the price for a listing given the characteristics of the property. These models could be used by various stakeholders, if Airbnb were to make these models or refinements of these models available to the appropriate stakeholders.
 
-*Business use cases:* Firstly, current hosts can use this analysis it to see if their listings are mispriced for their and adjust prices to charge optimally based on these factors. Secondly, Airbnb may also be able to introduce a tool that advertises to potential hosts and gives them a fast and efficient method to approximate how much a host’s property could go for. Lastly property investors, and in particular speculators, will be able to use this analysis and develop it further to build models which predict prices and potentially develop around certain areas. .
+*Business use cases:* Firstly, current hosts can use this analysis to evaluate if their listings are mispriced and adjust their prices to charge optimally based on these factors. Secondly, Airbnb may also be able to introduce a tool that advertises to potential hosts and gives them a rapid and efficient method to approximate how much a host’s property could go for. Lastly property investors, and in particular speculators, will be able to use this analysis and develop it further to build models which predict prices and potentially develop around certain areas.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
