@@ -17,9 +17,9 @@
 
 ---
 
-### Computational & Quantitative Finance Projects
+### Computational & Quantitative Finance Mini Projects
 
-- [Project 1 Title](http://example.com/)
+- [Portfolio Optimization](http://example.com/)
 - [Project 2 Title](/pdf/sample_presentation.pdf)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
