@@ -37,7 +37,7 @@ if (isAwesome){
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### 4. Model Evaluation 
-<img src="images/comparison.png?raw=true"/>
+<img src="images/performance.png?raw=true"/>
 
 ### 5. Final Model Performance  
 
