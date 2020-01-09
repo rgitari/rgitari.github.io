@@ -4,7 +4,9 @@
 
 *Business use cases:* Firstly, current hosts can use this analysis to evaluate if their listings are mispriced and adjust their prices to charge optimally based on these factors. Secondly, Airbnb may also be able to introduce a tool that advertises to potential hosts and gives them a rapid and efficient method to approximate how much a host’s property could go for. Lastly property investors, and in particular speculators, will be able to use this analysis and develop it further to build models which predict prices and potentially develop around certain areas.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. The fundamental problem of having an unbalanced target variable
+
+<img src="images/Comb.png?raw=true"/>
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
@@ -16,7 +18,6 @@ if i can type something here (isAwesome apparently ){
 
 ### 2. Geographical representation of Airbnb listings across major US cities
 
-<img src="images/Comb.png?raw=true"/>
 
 
 
