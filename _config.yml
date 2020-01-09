@@ -3,10 +3,13 @@ logo: "/images/rg2683250128.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Passionate about using data to drive decision making
   <br><br>
+  
   Masters in Business Analytics at Duke University: Fuqua School of Business
   <br><br>
+  
   <a href="https://www.linkedin.com/in/robertgitari/">View My LinkedIn Profile</a> 
   <br><br>
+  
    <a href="https://github.com/rgitari">
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
