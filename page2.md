@@ -1,8 +1,8 @@
 ## Bank Marketing: “To ring or Fling?”
 
-**Project description:** Using publicly available data on Airbnb listings, I have developed several models which predict the price for a listing given the characteristics of the property. These models could be used by various stakeholders, if Airbnb were to make these models or refinements of these models available to the appropriate stakeholders.
+**Project description:** I have developed several models which predict which customers are more likely to open a term deposit after being contacted by the bank's marketing team. for a listing given the characteristics of the property. The models range from those based on supervised learning (such as Logistic regression and random forest), and models based on unsupervised learning (such as Principal Component Analysis and k-means) as well as using regularization techniques with Lasso. 
 
-*Business use cases:* Firstly, current hosts can use this analysis to evaluate if their listings are mispriced and adjust their prices to charge optimally based on these factors. Secondly, Airbnb may also be able to introduce a tool that advertises to potential hosts and gives them a rapid and efficient method to approximate how much a host’s property could go for. Lastly property investors, and in particular speculators, will be able to use this analysis and develop it further to build models which predict prices and potentially develop around certain areas.
+*Business use cases:* In this project we observe a Portuguese bank which had started a marketing campaign to increase their term deposits. The marketing team reached out to potential customers to attract new term deposits but unfortunately, this approach has not been very successful over the past few months. To address this performance issue, I performed predictive analysis to identify the customers who have the highest chance of subscribing to the bank’s term deposits after being contacted by the marketing team.
 
 ### 1. The fundamental problem of having an unbalanced target variable
 
