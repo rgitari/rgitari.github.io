@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Bank Marketing: "To ring or fling ?"](/page2)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/term-deposit-rates-min.png?raw=true"/>
 
 ---
 
