@@ -13,11 +13,12 @@
 
 ---
 
-### Computational & Quantitative Finance Mini Projects
+### Quantitative Finance Mini Projects
 
 - [Portfolio Optimization](http://example.com/)
-- [Project 2 Title](/pdf/sample_presentation.pdf)
-- [Project 3 Title](http://example.com/)
+- [Continous Time Asset Pricing Models](/pdf/sample_presentation.pdf)
+- [Option Pricing](http://example.com/)
+- [Dynamic Hedging in R](http://example.com/)
 
 
 ---
