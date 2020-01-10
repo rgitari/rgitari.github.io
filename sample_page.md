@@ -28,7 +28,7 @@ if (isAwesome){
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/corr3.png?raw=true"/>
 
 ### 4. Model Evaluation 
 <img src="images/comparison.png?raw=true"/>
