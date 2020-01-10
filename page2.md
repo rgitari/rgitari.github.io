@@ -10,12 +10,6 @@
 
 The dataset is unbalanced, and so many of our algorithms I use perform poorly in this scenario (i.e. predicts well only for the majority class).To bypass this restriction they are several options, I decided to use a synthetic minority oversampling technique (SMOTE) from the smotefamily package. It uses k nearest neighbors to find the n-nearest neighbors in the minority class for each of the samples in the class to generate new and synthetic data we can use for training our model. This induces bias in our model but we will compare its performance with the models with unbalanced data.
 
-```javascript
-if i can type something here (isAwesome apparently ){
-  and if return true
-}
-```
-
 ### 2. Data leakage 
 
 <img src="images/corrplot.png?raw=true"/>
