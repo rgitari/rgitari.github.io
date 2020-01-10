@@ -14,10 +14,10 @@ The dataset is unbalanced, and so many of our algorithms I use perform poorly in
 
 <img src="images/corrplot.png?raw=true"/>
 
-```javascript
-Call duration is most positivley correlated with our target variable of interest (y).
-But call duration is not know prior to making a call and thus cannot be used in predictive modelling. 
-```
+
+* Call duration is most positivley correlated with our target variable of interest (y).
+* But call duration is not know prior to making a call and thus cannot be used in predictive modelling. 
+
 
 
 <img src="images/Duration.png?raw=true"/>
