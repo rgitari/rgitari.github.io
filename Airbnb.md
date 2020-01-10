@@ -20,8 +20,6 @@ As a method to prevent overfitting
 
 <img src="images/Comb.png?raw=true"/>
 
-
-
 ```javascript
 if (isAwesome){
   return true
@@ -35,7 +33,16 @@ if (isAwesome){
 ### 4. Model Evaluation 
 <img src="images/comparison.png?raw=true"/>
 
+```Final Model Selected is the XGBoost model.
+It has the lowest RMSE (42%) and MAE (32%)  and also the highest R squared (62% among all the models. 
+Which indicates that it has the best cross validated performance.
+```
+
 ### 5. Final Model Performance  
+
+<img src="images/finalmodel.png?raw=true"/>
+
+The final model performance on unseen data (the test data) has a RMSE of 41%, a MAE of 32% and a R squared of 61.7%. These results are very encouraging as our model has kept very consistent results through both the evaluation stage and testing stage meaning it can be used for predictive analysis. 
 
 ### Summary
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
