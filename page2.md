@@ -8,7 +8,7 @@
 
 <img src="images/Rplot.png?raw=true"/>
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The dataset is unbalanced, and so many of our algorithms I use perform poorly in this scenario (i.e. predicts well only for the majority class).To bypass this restriction they are several options, I decided to use a synthetic minority oversampling technique (SMOTE) from the smotefamily package. It uses k nearest neighbors to find the n-nearest neighbors in the minority class for each of the samples in the class to generate new and synthetic data we can use for training our model. This induces bias in our model but we will compare its performance with the models with unbalanced data.
 
 ```javascript
 if i can type something here (isAwesome apparently ){
