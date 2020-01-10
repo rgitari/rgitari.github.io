@@ -38,8 +38,9 @@ I ran Principal component analysis(PCA) to reduce the number of dimensions which
 <img src="images/performance.png?raw=true"/>
 
 ```javascript
-Final Model Selected is the Lasso Model based on theory. With the highest Accuracy rate (90.25%) and
-the highest AUC (79.9%) among all the models, indicating that it has the best OOS performance.
+Final Model Selected is the Lasso Model based on theory.
+It has the highest Accuracy rate (90.25%) and AUC (79.9%) among all the models. 
+Which indicates that it has the best OOS performance.
 ```
 
 ### Summary
