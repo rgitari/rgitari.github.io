@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Project 1 Bank Marketing: "To ring or fling ?"](/page2)
+[Project 1 Bank Marketing: "To ring or fling ?"](/bank)
 <img src="images/term-deposit-rates-min.png?raw=true"/>
 
 ---
