@@ -4,14 +4,15 @@
 
 ### Projects
 
-[Project 1 Airbnb: "Belong anywhere ?"](/sample_page)
-<img src="images/airbnb-logo-png-airbnb-logo-1600.jpg?raw=true"/>
-
----
-[Project 2 Bank Marketing: "To ring or fling ?"](/page2)
+[Project 1 Bank Marketing: "To ring or fling ?"](/page2)
 <img src="images/term-deposit-rates-min.png?raw=true"/>
 
 ---
+[Project 2 Airbnb: "Belong anywhere ?"](/sample_page)
+<img src="images/airbnb-logo-png-airbnb-logo-1600.jpg?raw=true"/>
+
+---
+
 
 ### Quantitative Finance Mini Projects
 
