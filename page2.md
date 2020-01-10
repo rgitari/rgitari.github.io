@@ -44,7 +44,10 @@ Which indicates that it has the best OOS performance.
 ```
 
 ### Summary
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+By using data-driven models as described above, this will allow the bank to target customers that are likely to be affected by the marketing campaign, instead of wasting the resources to randomly selecting customers. This will increase the efficiency of their campaigns. 
+
+According to the final model, the bank should target customers with specific demographics such as retired people and people with university degrees, and avoid certain times of the year, especially in the month of May.
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
