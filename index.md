@@ -15,10 +15,10 @@
 
 ### Quantitative Finance Mini Projects
 
-- [Portfolio Optimization](http://example.com/)
-- [Continous Time Asset Pricing Models](/pdf/sample_presentation.pdf)
-- [Option Pricing](http://example.com/)
-- [Dynamic Hedging in R](http://example.com/)
+- [Portfolio Optimization](https://github.com/rgitari/Finance/blob/master/Portfolio%20Optimization.R)
+- [Continous Time Asset Pricing Models](https://github.com/rgitari/Finance/blob/master/Asset%20Pricing%20Models.R)
+- [Macroeconomic Regimes and Asset Returns](https://github.com/rgitari/Finance/blob/master/All%20Weather%20Portfolio.R)
+- [Dynamic Hedging](https://github.com/rgitari/Finance/blob/master/Dynamic%20Hedging.R)
 
 
 ---
