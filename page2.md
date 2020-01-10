@@ -42,7 +42,10 @@ I ran Principal component analysis(PCA) to reduce the number of dimensions which
 ### 4. Final Model Performance
 <img src="images/performance.png?raw=true"/>
 
-
+```javascript
+Final Model Selected (Lasso Model based on theory ){
+}
+```
 
 ### Summary
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
