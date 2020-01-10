@@ -4,14 +4,16 @@
 
 *Business use cases:* Firstly, current hosts can use this analysis to evaluate if their listings are mispriced and adjust their prices to charge optimally based on these factors. Secondly, Airbnb may also be able to introduce a tool that advertises to potential hosts and gives them a rapid and efficient method to approximate how much a host’s property could go for. Lastly property investors, and in particular speculators, will be able to use this analysis and develop it further to build models which predict prices and potentially develop around certain areas.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Model assumptions and variable selecttion 
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Graphed a correlation matrix and I plan to remove the independent variables that have a correlation of more than 0.65 with another independent variable in order to prevent multicollinearity, which is an assumption which underlies one of the predictive models we are building (linear regression). 
 
+<img src="images/Corr3.png?raw=true"/>
+
+** Regularization techniques 
 ```javascript
-if i can type something here (isAwesome apparently ){
-  and if return true
-}
+Linear regression model built using stepwise regression (both forward and backward).
+As a method to prevent overfitting
 ```
 
 ### 2. Geographical representation of Airbnb listings across major US cities
@@ -28,7 +30,7 @@ if (isAwesome){
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/Corr3.png?raw=true"/>
+
 
 ### 4. Model Evaluation 
 <img src="images/comparison.png?raw=true"/>
