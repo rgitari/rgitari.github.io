@@ -10,7 +10,7 @@ Graphed a correlation matrix and I plan to remove the independent variables that
 
 <img src="images/Corr3.png?raw=true"/>
 
-** Regularization techniques 
+*** Regularization techniques 
 ```javascript
 Linear regression model built using stepwise regression (both forward and backward).
 As a method to prevent overfitting
