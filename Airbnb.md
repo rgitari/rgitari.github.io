@@ -24,16 +24,17 @@ As a method to prevent overfitting
 ```
 
 ### 3. Model Evaluation 
-<img src="images/comparison.png?raw=true"/>
-
-
 
 ```Final Model Selected is the XGBoost model.
-It has the lowest RMSE (42%) and MAE (32%)  and also the highest R squared (62% among all the models. 
-Which indicates that it has the best cross validated performance.
+
 ```
 
-### 5. Final Model Performance  
+It has the lowest RMSE (42%) and MAE (32%)  and also the highest R squared (62% among all the models. 
+Which indicates that it has the best cross validated performance.
+
+<img src="images/comparison.png?raw=true"/>
+
+### 4. Final Model Performance  
 
 <img src="images/finalmodel.png?raw=true"/>
 
