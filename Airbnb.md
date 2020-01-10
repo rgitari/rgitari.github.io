@@ -20,17 +20,10 @@ As a method to prevent overfitting
 
 <img src="images/Comb.png?raw=true"/>
 
-```javascript
-if (isAwesome){
-  return true
-}
+```The geographical diversity of Airbnb listings. 
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
-
-
-
-### 4. Model Evaluation 
+### 3. Model Evaluation 
 <img src="images/comparison.png?raw=true"/>
 
 ```Final Model Selected is the XGBoost model.
@@ -44,7 +37,6 @@ Which indicates that it has the best cross validated performance.
 
 The final model performance on unseen data (the test data) has a RMSE of 41%, a MAE of 32% and a R squared of 61.7%. These results are very encouraging as our model has kept very consistent results through both the evaluation stage and testing stage meaning it can be used for predictive analysis. 
 
-### Summary
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### Future Scope
+There are several limitations to the models I have developed. The future of this project could be increased in complexity and scope. One way I plan to do this is through some major variables our models fail to take into consideration such as amenities, description, customer reviews, all of which are characters. These are all factors we believe to be very important in determining the optimal price of a new listing, but to properly include them into our models would require advanced text analytics or natural language processing to convert them into usable data. Future research can focus on this to improve the predictive power of the models. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
