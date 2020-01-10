@@ -36,6 +36,9 @@ if (isAwesome){
 
 <img src="images/PCA.png?raw=true"/>
 
+I ran Principal component analysis(PCA) to reduce the number of dimensions which explain the common variance of features. From the graph above, I find that the first 4 principal components explain roughly 30% of the variance, while the first 9 PCs explain 50% of the variance. Given that it takes 9 principal components to explain 50% of the variance, this is not very efficient in dimension reduction. A potential reason for this inefficiency is that most of the features in the dataset do not have high correlation, making it hard for us to group features into fewer dimensions.
+
+
 ### 4. Final Model Performance
 <img src="images/performance.png?raw=true"/>
 
