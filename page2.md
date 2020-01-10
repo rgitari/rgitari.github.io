@@ -20,16 +20,12 @@ if i can type something here (isAwesome apparently ){
 
 <img src="images/corrplot.png?raw=true"/>
 
-Call duration is most positivley correlated with our target variable of interest (y), but call duration is not know prior to making a call and thus to marketing so we cannot use it in predictive modelling.  uasi architecto beatae vitae dicta sunt explicabo. 
+Call duration is most positivley correlated with our target variable of interest (y), but call duration is not know prior to making a call and thus to marketing so we cannot use it in predictive modelling.
 
 <img src="images/Duration.png?raw=true"/>
 
-Relationship of Call duration and subscription rate. We can see as the call duration increases the subscription rate increases (more yes's) 
-
 ```javascript
-if (isAwesome){
-  return true
-}
+Relationship of Call duration and subscription rate. We can see as the call duration increases the subscription rate increases. 
 ```
 
 ### 3. Unsupervised Learning
