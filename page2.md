@@ -25,7 +25,8 @@ Call duration is most positivley correlated with our target variable of interest
 <img src="images/Duration.png?raw=true"/>
 
 ```javascript
-Relationship of Call duration and subscription rate. We can see as the call duration increases the subscription rate increases. 
+Relationship of Call duration and subscription rate. 
+We can see as the call duration increases the subscription rate increases. 
 ```
 
 ### 3. Unsupervised Learning
