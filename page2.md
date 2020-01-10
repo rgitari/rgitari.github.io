@@ -32,14 +32,14 @@ if (isAwesome){
 }
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. Unsupervised Learning
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/PCA.png?raw=true"/>
 
-### 4. Model Evaluation 
+### 4. Final Model Performance
 <img src="images/performance.png?raw=true"/>
 
-### 5. Final Model Performance  
+
 
 ### Summary
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
