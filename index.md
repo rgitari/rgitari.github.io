@@ -4,15 +4,17 @@
 
 ### Projects
 
-[Project 1 Bank Marketing: "To ring or fling ?"](/bank)
+[Project 1 Dungeons & Dragons: "What brings you to our remote sanctuary?"](/bank)
 <img src="images/term-deposit-rates-min.png?raw=true"/>
+
 
 ---
 [Project 2 Airbnb: "Belong anywhere ?"](/Airbnb)
 <img src="images/airbnb-logo-png-airbnb-logo-1600.jpg?raw=true"/>
 
 ---
-
+[Project 3 Bank Marketing: "To ring or fling ?"](/bank)
+<img src="images/term-deposit-rates-min.png?raw=true"/>
 
 ### Quantitative Finance Mini Projects
 
