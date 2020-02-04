@@ -4,9 +4,8 @@
 
 ### Projects
 
-[Project 1 Dungeons & Dragons: "What brings you to our remote sanctuary?"](/bank)
-<img src="images/term-deposit-rates-min.png?raw=true"/>
-
+[Project 1 Dungeons & Dragons: "What brings you to our remote sanctuary?"](/Eberron)
+<img src="images/Coverpic.jpg?raw=true"/>
 
 ---
 [Project 2 Airbnb: "Belong anywhere ?"](/Airbnb)
