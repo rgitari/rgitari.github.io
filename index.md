@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Project 1 Dungeons & Dragons: // "What brings you to our remote sanctuary?"](/Eberron)
+[Project 1 Dungeons & Dragons:"What brings you to our remote sanctuary?"](/Eberron)
 <img src="images/Coverpic.jpg?raw=true"/>
 
 ---
