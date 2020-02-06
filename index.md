@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Project 1 Dungeons & Dragons:"What brings you to our remote sanctuary?"](/Eberron)
+[Project 1 Dungeons & Dragons:"What brings you to our remote sanctuary?"](https://www.linkedin.com/pulse/what-brings-you-our-remote-sanctuary-robert-gitari/)
 <img src="images/Coverpic.jpg?raw=true"/>
 
 ---
